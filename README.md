@@ -1,33 +1,37 @@
-# 🎂 Happy Birthday Mini Website 🎉  
+# 💖 Love You - A Special Memory Website
 
-A beautiful, interactive mini website I built to celebrate my girlfriend’s special day ❤️.  
-This project is made with **HTML, CSS, and JavaScript** and includes animations, surprises, and heartfelt wishes.  
+A beautifully crafted memory gallery with a surprise intro page. Perfect for cherishing special moments with your loved one! 🥰✨
 
-✨ Anyone can use this project to create a unique online birthday greeting for their loved one!  
+## 🌟 Features
+- **Romantic Intro Page** – A sweet message with a button leading to the gallery
+- **Memory Gallery** – Aesthetic sliding images of precious moments
+- **Animated Background** – Soft gradient + glowing stars effect
+- **Music Button 🎵** – Click to play/pause background music
+- **Made by Ziddi 💖** – Your unique touch in the footer
 
----
+## 📂 File Structure
+```
+/love-you
+│── index.html          # First page (intro message)
+│── gallery.html        # Second page (memory gallery)
+│── styles.css          # Styling for both pages
+│── script.js           # JavaScript for music button
+│── img1.jpg, img2.jpg  # Your gallery images (replace with your own)
+│── mp.mp3              # Background music (replace with your own)
+│── mp2.md              # Background music (replace with your own)
+│── README.md           # This file
+```
 
-## 🚀 Live Demo  
-👉 [Click here to view the site](https://nikitayadav19.github.io/HappyBirthdayGF)  
+## 🚀 How to Use
+1️⃣ **Download or clone this repo:**  
+```bash
+git clone https://github.com/ziddi-shop/love-you.git
+```
+2️⃣ **Place your own images in the folder.**  
+3️⃣ **Replace `song.mp3` with your favorite track.**  
+4️⃣ **Open `index.html` in a browser & enjoy!**  
 
----
+## ❤️ Credits
+💖 Made with love by **Ziddi** 💖
 
-
-## 🎁 Features   
-- 💌 Heartfelt birthday message with typewriter effect  
-- 🌟 Responsive design (works on phone & desktop)  
-- ✨ Easy to customize for anyone  
-
----
-
-## 🛠️ Tech Stack  
-- **HTML5**  
-- **CSS3** (with animations)  
-- **JavaScript**  
-
----
-
-## 🎉 How to Use  
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/nikitayadav19/HappyBirthdayGF.git
+**[👉 Click here to visit the live version](https://ziddi-shop.github.io/love-you/)** 
